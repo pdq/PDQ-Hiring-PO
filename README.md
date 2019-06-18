@@ -1,49 +1,10 @@
-# Jr. System Administrator (Associate Solutions Engineer) Technical Assessment
+## Purpose
+To peek into that product owner brain of yours, we'd like to get a better understanding of how you approach product problems
 
-This is an open book assessment so use your highly honed Google-Fu skills.
+## Instructions
+Imagine you have been tasked to develop an online e-commerce website using Scrum. Write up an overview on how you might do that along with a set of five questions, ranked from most important to least important you would ask during your initial meeting with developers and stakeholders.
 
-Create/open a plain .txt file and answer the following:
-
-1. Research a topic in IT where you are not an expert (20 minutes or so). When finished, write a summary paragraph that explains the topic so a non-technical person could understand.
-
-2. What was the last thing you automated/scripted? If you haven’t automated anything, what is something you would like to? Explain to us how you automated the task or a high-level overview of how you would. The automation does not need to be tied directly to your current job; this can include those pet projects you have in your home lab.
-
-3. How do you alter the ports that accept RDP?
-
-4. Please select the five characteristics of a job or work environment that are the most important to you and rank them in order of importance (1 being most important).
-
- ```_____ Using interesting new technologies
-_____ Mentoring others
-_____ Working with smart people ("A Players")
-_____ Learning from others
-_____ Working with nice people
-_____ Doing things the "Right Way"
-_____ Solving hard technical problems
-_____ Making customers happy
-_____ Working closely with a customer
-_____ Opportunity for travel
-_____ Creating innovative solutions
-_____ Leading a team
-_____ Developing / Providing high quality solutions
-_____ Working on a team
-_____ Opportunity for advancement
-_____ Other: _____________________________
-```
-
-5. What port does ping use?
-
-6. What is one thing you would like to change in your current work environment, but you can't? What is it, and how would you change it?
-
-7. Why do you want to work at PDQ.com generally and specifically?
-
-8. What five questions would you ask us about our company and software?
-
-9. What do you think is the most important aspect of this job?
-
-10. How will PDQ.com get you where you want to go in your career?
-
-## Final Step:
+## Submission
 When finished, zip up your document ensuring that the .zip file name contains your name, and upload the .zip file to https://link.pdq.com/application (no account required). Submissions are reviewed within 3 - 6 business days and considered for an interview.
 
-## Important
-Please do not include anything in your files (other than your name as the zip file) that could identify you. Submissions are anonymized on receipt so our team does not know whose homework they are evaluating (the entire team will review your homework).
+Please do not include anything in your files (other than your name as the zip file) that could identify you.
